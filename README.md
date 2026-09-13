@@ -9,7 +9,7 @@ Library checkout system:
 - Users search and check out books from the catalogue.
 - Borrowing history has retention rules.
 
-Theater Scene Visualizer:
+Theater scene visualizer:
 - Given a playtext, generate a visualization showing which scenes contain which characters.
 
 Unusual activity detector:
